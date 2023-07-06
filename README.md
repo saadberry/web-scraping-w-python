@@ -1,4 +1,4 @@
-# web-scraping-w-python
+#web-scraping-w-python
 
 Python Script that: 
 1. Scrapes data from Articles from the Web 
